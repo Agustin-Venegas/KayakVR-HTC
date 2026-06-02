@@ -6522,6 +6522,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1895664745847304380, guid: b30c65ff6ff46b14ab8834ed1c03f36a, type: 3}
+      propertyPath: m_TrackingStateInput.m_Action.m_Name
+      value: Tracking State Input
+      objectReference: {fileID: 0}
     - target: {fileID: 3646441115570078183, guid: b30c65ff6ff46b14ab8834ed1c03f36a, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
