@@ -32,15 +32,6 @@ Requires a VR Ready, Windows PC.
 Unity 2021 LTS, latest version.
 SteamVR configured as XR Loader.
 
-## Installing
-Clone the repository and import the folder as project the latest version of Unity 2021 LTS
-
-## Build
-Open the SampleSceneTerrainHigh scene and select it in the build options, before building.
-
-## Other setups
-A controller should be attached perpendicular to a paddle-like object, to simulate the paddling.
-
 ## Contact
 For questions or replication of results:
 fbesoain@utalca.cl
