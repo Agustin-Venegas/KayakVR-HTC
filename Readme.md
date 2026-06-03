@@ -1,9 +1,11 @@
 # KayakVR-HTC
 Unity PCVR software that simulates a kayak, for use in research.
 
+**Manuscript ID:** IEEE LATAM Submission ID: 10516
+
 **Authors** 
-- Agustín Venegas (1)
-- Jorge Gonzáles-Ortega (2)
+- Jorge Gonzáles-Ortega (1)
+- Agustín Venegas (2)
 - Ismael Gallardo (2)
 - Felipe Besoaín (1)
 
@@ -38,3 +40,7 @@ Open the SampleSceneTerrainHigh scene and select it in the build options, before
 
 ## Other setups
 A controller should be attached perpendicular to a paddle-like object, to simulate the paddling.
+
+## Contact
+For questions or replication of results:
+fbesoain@utalca.cl
