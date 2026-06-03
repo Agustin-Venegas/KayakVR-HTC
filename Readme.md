@@ -34,4 +34,4 @@ SteamVR configured as XR Loader.
 
 ## Contact
 For questions or replication of results:
-fbesoain@utalca.cl
+avenegas19@alumnos.utalca.cl
